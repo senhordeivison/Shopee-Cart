@@ -5,6 +5,6 @@ Criar um carrinho de compras baseado no carrinho da shopee, aonde o carrinho arm
 Domínio da aplicação: carrinho de compras
 
 As entidades representadas: 
-    carrinho = cart.js
+carrinho = cart.js
     ---------------
-    itens = item.js
+itens = item.js

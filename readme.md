@@ -6,5 +6,4 @@ Domínio da aplicação: carrinho de compras
 
 As entidades representadas: 
 carrinho = cart.js
-    ---------------
-itens = item.js
+\nitens = item.js
